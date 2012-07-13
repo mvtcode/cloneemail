@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Clone", "Clone.csproj", "{F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB}.Debug|x86.ActiveCfg = Debug|x86
+		{F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB}.Debug|x86.Build.0 = Debug|x86
+		{F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB}.Release|x86.ActiveCfg = Release|x86
+		{F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

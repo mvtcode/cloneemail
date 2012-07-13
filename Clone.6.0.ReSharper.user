@@ -1,0 +1,331 @@
+<Configuration>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.Designer.cs" caret="0" fromTop="0" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Program.cs" caret="0" fromTop="0" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.cs" caret="14410" fromTop="14" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.Designer.cs" caret="4527" fromTop="15" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2875" fromTop="20" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2203" fromTop="18" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2203" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1706" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1706" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.cs" caret="15194" fromTop="25" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.cs" caret="14002" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.cs" caret="13807" fromTop="11" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="826" fromTop="18" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1450" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2170" fromTop="22" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="707" fromTop="9" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="649" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="790" fromTop="20" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="514" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="969" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:GetEmail.cs" caret="14350" fromTop="14" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1305" fromTop="18" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1219" fromTop="8" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2946" fromTop="21" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2946" fromTop="0" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2277" fromTop="0" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="1910" fromTop="9" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3200" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3211" fromTop="12" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3211" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3211" fromTop="16" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3223" fromTop="15" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.Designer.cs" caret="4527" fromTop="15" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="2935" fromTop="23" />
+      <File id="F64458F0-6C7C-428B-BF40-BFEB0C9ECFEB/f:Export.cs" caret="3223" fromTop="20" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="CSharpCodeCompletionContext">
+      <Item value="using" priority="92" />
+      <Item value="Net" priority="26" />
+      <Item value="TB_HTML" priority="159" />
+      <Item value="string" priority="1077" />
+      <Item value="TB_Address" priority="127" />
+      <Item value="if" priority="1055" />
+      <Item value="return" priority="575" />
+      <Item value="sAddress" priority="159" />
+      <Item value="false" priority="543" />
+      <Item value="List_Email" priority="410" />
+      <Item value="private" priority="831" />
+      <Item value="sContent" priority="31" />
+      <Item value="Length" priority="26" />
+      <Item value="new" priority="543" />
+      <Item value="for" priority="31" />
+      <Item value="bool" priority="63" />
+      <Item value="List" priority="95" />
+      <Item value="oList" priority="159" />
+      <Item value="null" priority="127" />
+      <Item value="var" priority="63" />
+      <Item value="List&lt;string&gt;" priority="28" />
+      <Item value="List_Link" priority="377" />
+      <Item value="foreach" priority="127" />
+      <Item value="sValue" priority="63" />
+      <Item value="matchResult" priority="31" />
+      <Item value="int" priority="445" />
+      <Item value="slink" priority="255" />
+      <Item value="n" priority="159" />
+      <Item value="while" priority="31" />
+      <Item value="break" priority="31" />
+      <Item value="k" priority="255" />
+      <Item value="sC" priority="160" />
+      <Item value="else" priority="223" />
+      <Item value="Convert`0" priority="31" />
+      <Item value="sHREF" priority="95" />
+      <Item value="short" priority="31" />
+      <Item value="sLink" priority="991" />
+      <Item value="void" priority="319" />
+      <Item value="ThreadExceptionDialog`0" priority="31" />
+      <Item value="Thread" priority="57" />
+      <Item value="ParameterizedThreadStart" priority="28" />
+      <Item value="i" priority="255" />
+      <Item value="text" priority="31" />
+      <Item value="ThreadStart" priority="28" />
+      <Item value="thrHTML" priority="154" />
+      <Item value="ListBox`0" priority="89" />
+      <Item value="ThreadState`0" priority="58" />
+      <Item value="Timer`0" priority="63" />
+      <Item value="Timer" priority="57" />
+      <Item value="tm" priority="95" />
+      <Item value="true" priority="415" />
+      <Item value="thrEmail" priority="31" />
+      <Item value="iIndex" priority="159" />
+      <Item value="timer1" priority="95" />
+      <Item value="Pic_Loading" priority="95" />
+      <Item value="thrLink" priority="26" />
+      <Item value="GetCurentPage`0" priority="31" />
+      <Item value="oItem" priority="63" />
+      <Item value="SaveFileDialog`0" priority="63" />
+      <Item value="sCurentPage" priority="31" />
+      <Item value="client" priority="63" />
+      <Item value="try" priority="95" />
+      <Item value="statusStrip1" priority="31" />
+      <Item value="Exception" priority="28" />
+      <Item value="ex" priority="63" />
+      <Item value="RefreshLabelLink`0" priority="53" />
+      <Item value="this" priority="319" />
+      <Item value="BT_Go" priority="63" />
+      <Item value="BT_ExportLink" priority="122" />
+      <Item value="BT_ExportEmail" priority="127" />
+      <Item value="MessageBox`0" priority="63" />
+      <Item value="MessageBoxButtons`0" priority="31" />
+      <Item value="MessageBoxIcon`0" priority="31" />
+      <Item value="DialogResult" priority="63" />
+      <Item value="BT_Stop" priority="63" />
+      <Item value="#define" priority="31" />
+      <Item value="stop`0" priority="31" />
+      <Item value="Excel`0" priority="31" />
+      <Item value="Application`0" priority="26" />
+      <Item value="MsExcel" priority="31" />
+      <Item value="Excel" priority="53" />
+      <Item value="xla" priority="127" />
+      <Item value="Button`0" priority="63" />
+      <Item value="obj" priority="63" />
+      <Item value="bEnable" priority="63" />
+      <Item value="AppEvents_WorkbookAfterXmlExportEventHandler`0" priority="31" />
+      <Item value="ws" priority="31" />
+      <Item value="ListBox" priority="31" />
+      <Item value="Button" priority="63" />
+      <Item value="sender" priority="31" />
+      <Item value="BT" priority="63" />
+      <Item value="prop" priority="127" />
+      <Item value="public" priority="31" />
+      <Item value="Export`0" priority="63" />
+      <Item value="sCaption" priority="127" />
+      <Item value="RD_Excel" priority="31" />
+      <Item value="OpenFileDialog`0" priority="31" />
+      <Item value="open" priority="32" />
+      <Item value="openFile" priority="155" />
+      <Item value="OpenFileDialog" priority="28" />
+      <Item value="System" priority="57" />
+      <Item value="IO" priority="26" />
+      <Item value="StreamWriter`0" priority="31" />
+      <Item value="streamWriter" priority="96" />
+      <Item value="StreamWriter" priority="28" />
+      <Item value="Encoder`0" priority="31" />
+      <Item value="encoding" priority="58" />
+      <Item value="UTF8Encoding`0" priority="26" />
+      <Item value="Text" priority="26" />
+      <Item value="ApplicationException`0" priority="31" />
+      <Item value="ApplicationException" priority="28" />
+      <Item value="finally" priority="31" />
+      <Item value="Export" priority="28" />
+      <Item value="NewWin" priority="245" />
+      <Item value="iTop" priority="154" />
+      <Item value="iLeft" priority="95" />
+      <Item value="Left" priority="31" />
+      <Item value="ital" priority="31" />
+      <Item value="e" priority="31" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.TextBox">
+      <Item value="Text" priority="161" />
+      <Item value="Enabled" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="Trim`0" priority="53" />
+      <Item value="Length" priority="161" />
+      <Item value="ToLower`0" priority="215" />
+      <Item value="StartsWith`0" priority="161" />
+      <Item value="IndexOf`0" priority="53" />
+      <Item value="Substring`0" priority="188" />
+      <Item value="Replace`0" priority="53" />
+      <Item value="EndsWith`0" priority="80" />
+      <Item value="LastIndexOf`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox">
+      <Item value="Items" priority="404" />
+      <Item value="DataSource" priority="26" />
+      <Item value="SelectedValue" priority="26" />
+      <Item value="SelectedIndex" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListBox+ObjectCollection">
+      <Item value="Clear`0" priority="53" />
+      <Item value="Add`0" priority="26" />
+      <Item value="Equals`0" priority="26" />
+      <Item value="Contains`0" priority="26" />
+      <Item value="Count" priority="135" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Text.RegularExpressions.Regex">
+      <Item value="Split`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Add`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Text.RegularExpressions.Match">
+      <Item value="Value" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToChar`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Object">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Threading.Thread">
+      <Item value="Start`0" priority="134" />
+      <Item value="Join`0" priority="80" />
+      <Item value="ThreadState" priority="53" />
+      <Item value="Abort`0" priority="107" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Threading.ThreadState">
+      <Item value="Stopped" priority="53" />
+      <Item value="Running" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.PictureBox">
+      <Item value="Visible" priority="134" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Timer">
+      <Item value="Enabled" priority="107" />
+      <Item value="Start`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Net.WebClient">
+      <Item value="DownloadString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Exception">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Int32">
+      <Item value="ToString`0" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Clone.Form1">
+      <Item value="Close`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.Button">
+      <Item value="Enabled" priority="351" />
+      <Item value="MouseEnter" priority="26" />
+      <Item value="CanFocus" priority="26" />
+      <Item value="Text" priority="80" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBox">
+      <Item value="Show`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxButtons">
+      <Item value="OKCancel" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Windows.Forms.MessageBoxIcon">
+      <Item value="Question" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.DialogResult">
+      <Item value="OK" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Boolean">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Application">
+      <Item value="Save`0" priority="80" />
+      <Item value="Quit`0" priority="53" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.ListViewItem">
+      <Item value="ToString`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Microsoft.Office.Interop.Excel.Worksheet">
+      <Item value="SaveAs`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Clone.Export">
+      <Item value="sCaption" priority="26" />
+      <Item value="oList" priority="26" />
+      <Item value="Text" priority="26" />
+      <Item value="Close`0" priority="80" />
+      <Item value="Width" priority="54" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="Show`0" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="StartPosition" priority="26" />
+      <Item value="Top" priority="80" />
+      <Item value="Leave" priority="26" />
+      <Item value="Left" priority="80" />
+      <Item value="iTop" priority="26" />
+      <Item value="iLeft" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.RadioButton">
+      <Item value="Checked" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.OpenFileDialog">
+      <Item value="Filter" priority="53" />
+      <Item value="ShowDialog`0" priority="26" />
+      <Item value="FileName" priority="22" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.IO.StreamWriter">
+      <Item value="WriteLine`0" priority="26" />
+      <Item value="Dispose`0" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.ApplicationException">
+      <Item value="Message" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:Clone.GetEmail">
+      <Item value="Top" priority="26" />
+      <Item value="Height" priority="26" />
+      <Item value="Left" priority="27" />
+      <Item value="Width" priority="27" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.SaveFileDialog">
+      <Item value="FileName" priority="26" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Windows.Forms.KeyEventArgs">
+      <Item value="KeyValue" priority="26" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
