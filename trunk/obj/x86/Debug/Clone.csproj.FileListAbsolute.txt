@@ -1,0 +1,11 @@
+E:\Project\Clone\bin\Debug\Clone.exe
+E:\Project\Clone\bin\Debug\Clone.pdb
+E:\Project\Clone\obj\x86\Debug\ResolveAssemblyReference.cache
+E:\Project\Clone\obj\x86\Debug\Clone.Properties.Resources.resources
+E:\Project\Clone\obj\x86\Debug\GenerateResource.read.1.tlog
+E:\Project\Clone\obj\x86\Debug\GenerateResource.write.1.tlog
+E:\Project\Clone\obj\x86\Debug\Clone.exe
+E:\Project\Clone\obj\x86\Debug\Clone.pdb
+E:\Project\Clone\obj\x86\Debug\Clone.Export.resources
+E:\Project\Clone\obj\x86\Debug\Clone.GetEmail.resources
+E:\Project\Clone\obj\x86\Debug\Clone.GetHTML.resources
